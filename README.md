@@ -1,0 +1,3 @@
+- 👋 Minecraft & java developer
+- 🌱 currently working on localhost
+- 📫 Discord: EhsanMNA#0252
