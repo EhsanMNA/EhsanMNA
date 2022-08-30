@@ -8,4 +8,4 @@
 <h3>Minecraft</h3>
 I've been working with minecraft plugins for a year and recently started working on a open source project - MenuMine.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EhsanMNA&repo=MenuMine&theme=dark&title_color=33dd33&count_private=true&show_icons=true&hide_border=true)](https://github.com/ItzAmirreza/EzChestShop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EhsanMNA&repo=MenuMine&theme=dark&title_color=33dd33&count_private=true&show_icons=true&hide_border=true)](https://github.com/EhsanMNA/MenuMine)
