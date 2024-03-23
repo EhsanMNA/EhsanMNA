@@ -1,11 +1,9 @@
-<h1 align="center">
-Hi there, EhsanMNA is here ❄
-</h1>
+# 💫 About Me:
 
 <div>
   <div>
-    - 💻 Minecraft & java developer<br>
-    - 🔮 Web designer <br>
+    💻 Java/MC developer<br>
+    🔮 Web designer <br>
   </div>
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EhsanMNA&title_color=33dd33&count_private=true&show_icons=true&theme=dark"/>
@@ -13,19 +11,22 @@ Hi there, EhsanMNA is here ❄
 
 <h2>Projects</h2>
 <h3>Minecraft</h3>
-I've been working with minecraft plugins for years and recently started working on a open source project - MenuMine.
+I've been working with minecraft plugins for years and recently started working on open source projects (MenuMine,...).
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EhsanMNA&repo=MenuMine&theme=dark&title_color=33dd33&count_private=true&show_icons=true&hide_border=true)](https://github.com/EhsanMNA/MenuMine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EhsanMNA&repo=FireFighter-plugin&theme=dark&title_color=33dd33&count_private=true&show_icons=true&hide_border=true)](https://github.com/EhsanMNA/FireFighter-plugin)
 
   ## Technologies and Tools I use:
+   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+   ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) 
   
-[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg' width='40' height='40' />](https://marketplace.visualstudio.com/items?itemName=i007c.00-team-theme)
-[<img src='https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png' width='40' height='40' />](https://www.jetbrains.com/idea/)
-[<img src='https://www.vectorlogo.zone/logos/java/java-icon.svg' width='40' height='40' />](https://java.com/)
-
-
 <h2>
-🤝 Connect with me:
+🤝 Connect to me:
 </h2>
 
-<img alt="Discord" title="Discord" height="18" width="18" src="https://cdn.simpleicons.org/discord"></a> Discord: <a href="">@ehsanmna</a> (known as EhsanMNA#0252)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord) 
