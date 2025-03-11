@@ -11,9 +11,8 @@
 
 <h2>Projects</h2>
 <h3>Minecraft</h3>
-I've been working with minecraft plugins for years and recently started working on open source projects (MenuMine,...).
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EhsanMNA&repo=MenuMine&theme=dark&title_color=33dd33&count_private=true&show_icons=true&hide_border=true)](https://github.com/EhsanMNA/MenuMine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EhsanMNA&repo=EidGift&theme=dark&title_color=33dd33&count_private=true&show_icons=true&hide_border=true)](https://github.com/EhsanMNA/EidGift)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EhsanMNA&repo=FireFighter-plugin&theme=dark&title_color=33dd33&count_private=true&show_icons=true&hide_border=true)](https://github.com/EhsanMNA/FireFighter-plugin)
 
   ## Technologies and Tools I use:
