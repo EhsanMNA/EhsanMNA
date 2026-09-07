@@ -1,19 +1,26 @@
-# 💫 About Me:
+<h3 align="center">
+    <samp>
+        &gt; Hey There!, I am
+        <b><a target="_blank" href="https://github.com/EhsanMNA/EhsanMNA/">Ehsan Mahnoma</a></b>
+    </samp>
+</h3>
+
+<p align="center">
+<samp>
+「 💻 Java/Minecraft developer, Web designer 」  
+</samp>
+</p>
 
 <div>
   <div>
     💻 Java/MC developer<br>
     🔮 Web designer <br>
   </div>
-  <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EhsanMNA&title_color=33dd33&count_private=true&show_icons=true&theme=dark"/>
 </div>
 
-<h2>Projects</h2>
-<h3>Minecraft</h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EhsanMNA&repo=EidGift&theme=dark&title_color=33dd33&count_private=true&show_icons=true&hide_border=true)](https://github.com/EhsanMNA/EidGift)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EhsanMNA&repo=FireFighter-plugin&theme=dark&title_color=33dd33&count_private=true&show_icons=true&hide_border=true)](https://github.com/EhsanMNA/FireFighter-plugin)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EhsanMNA&theme=radical" alt="GitHub profile contribution summary" />
+</p>    
 
   ## Technologies and Tools I use:
    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
