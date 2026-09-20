@@ -15,13 +15,27 @@
   <div>
     💻 Java/MC developer<br>
     🔮 Web designer <br>
+    👨‍🎓 Radiology student at KAUMS, Iran
   </div>
 </div>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EhsanMNA&theme=radical" alt="GitHub profile contribution summary" />
-</p>    
+</p>  
 
+```java
+public static void hackLoad() throws InterruptedException {
+    for (int i = 0; i <= 100; i += 5, Thread.sleep(60))
+        System.out.print("\r\u001B[32m["
+            + "█".repeat(i / 5) + "░".repeat(20 - i / 5)
+            + "] " + i + "%\u001B[0m "+"learning new things");
+    System.out.println("\n✅ ACCESS GRANTED");
+}
+```
+```fix
+[████████████░░░░░░░░] 60% learning new things
+```
+        
   ## Technologies and Tools I use:
    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
@@ -30,9 +44,12 @@
    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
    ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) 
-  
-<h2>
-🤝 Connect to me:
-</h2>
+
+
+
+
+
+## 🤝 Connect to me:
+
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord) 
