@@ -7,7 +7,7 @@
 
 <p align="center">
 <samp>
-「 💻 Java/Minecraft developer, Web designer 」  
+「 💻 Java/Minecraft developer, Web designer 」<a target="_blank" href="https://ehsanmna.github.io/Resume/">Resume</a>
 </samp>
 </p>
 
